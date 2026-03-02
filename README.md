@@ -45,7 +45,7 @@ Engineering complete systems from UI to database layer.
 
 ### 🗄 Database
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,sql server" />
+<img src="https://skillicons.dev/icons?i=postgres,mssql" />
 </p>
 
 ### 🔧 Tools & DevOps
@@ -78,7 +78,7 @@ Institute (ITI)
 - Fundamentals of Web Development Certificate | Sprints 
 
 ## 🏆 Achievements
-
+- Back-End AI Engineering Intern | Sprints
 - 🥇 1st Place — React Competition (Pharmacy E-Commerce Platform)
 - 🥈 2nd Place — Advanced Frontend Competition
 
