@@ -1,7 +1,7 @@
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZyN2p3c3d2bTF6Y3N4aXh2c2U4c3R0cnd5cXR2eGd1YzZtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Gamila+Ahmed;Full+Stack+Engineer;React+%7C+NestJS+%7C+.NET;Building+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Real+Systems+%E2%80%A2+Production+Ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Gamila+Ahmed;Full+Stack+Engineer;React+%7C+NestJS+%7C+.NET;Building+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Real+Systems+%E2%80%A2+Production+Ready" />
 </h1>
 
 <h3 align="center">
@@ -45,12 +45,13 @@ Engineering complete systems from UI to database layer.
 
 ### 🗄 Database
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mssql" />
+<img src="https://skillicons.dev/icons?i=postgres,mssql" /> <img width="55"  alt="image" src="https://github.com/user-attachments/assets/b2606fdc-51d3-4d55-8f6f-1c1711a5ecf5" />
+
 </p>
 
 ### 🔧 Tools & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman" />
 </p>
 
 ---
@@ -87,17 +88,11 @@ Institute (ITI)
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GamilaAhmed14&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamilaAhmed14&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamilaAhmed14&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
