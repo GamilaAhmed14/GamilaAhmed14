@@ -24,10 +24,9 @@ Engineering complete systems from UI to database layer.
 
 ## 👩‍💻 About Me
 
-- 🎓 MIS Graduate — Helwan University (Excellent)
+- 🎓 MIS Graduate — Helwan University ( Excellent with honors)
 - 💡 Full Stack Developer with strong system architecture understanding
-- ⚡ Built scalable healthcare ecosystem supporting 100+ concurrent WebSocket connections
-- 🔐 Experienced in JWT Authentication & Role-Based Access Control (RBAC)
+- ⚡ Built scalable healthcare ecosystem supporting  concurrent WebSocket connections
 - 🚀 Passionate about building production-ready applications
 
 ---
@@ -36,17 +35,17 @@ Engineering complete systems from UI to database layer.
 
 ### 💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,html,css,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,ts,sass" />
 </p>
 
 ### ⚙ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,ts,c#" />
 </p>
 
 ### 🗄 Database
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,sql server" />
 </p>
 
 ### 🔧 Tools & DevOps
@@ -72,12 +71,17 @@ A full-stack healthcare platform featuring:
 
 ---
 
+## Certifications & Trainings
+- Full Stack Web Development using .NET (126 hrs.) | Information Technology
+Institute (ITI)
+- UI and UX Design Certificate | Sprints 
+- Fundamentals of Web Development Certificate | Sprints 
+
 ## 🏆 Achievements
 
 - 🥇 1st Place — React Competition (Pharmacy E-Commerce Platform)
 - 🥈 2nd Place — Advanced Frontend Competition
-- 💻 Open Source Contributor
-- 🎤 Presented production-ready system in front of company CEOs
+
 
 ---
 
