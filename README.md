@@ -1,7 +1,7 @@
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZyN2p3c3d2bTF6Y3N4aXh2c2U4c3R0cnd5cXR2eGd1YzZtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Gamila+Ahmed;Full+Stack+Developer;React+%7C+NestJS+%7C+.NET;Building+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Real+Systems+%E2%80%A2+Production+Ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=758&lines=Hi+👋+I'm+Gamila+Ahmed;Full+Stack+Developer;React+%7C+NestJS+%7C+.NET;Building+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Real+Systems+%E2%80%A2+Production+Ready" />
 </h1>
 
 <h3 align="center">
@@ -24,10 +24,11 @@ Developing complete systems from UI to database layer.
 
 ## 👩‍💻 About Me
 
-- 🎓 MIS Graduate — Helwan University ( Excellent with honors)
-- 💡 Full Stack Developer with strong system architecture understanding
-- ⚡ Built scalable healthcare ecosystem supporting  concurrent WebSocket connections
-- 🚀 Passionate about building production-ready applications
+- 🎓 **MIS Graduate — Helwan University (Excellent with Honors)**  
+- 🎨 Passionate about **Frontend Development**, building responsive and user-focused interfaces using React & modern CSS frameworks  
+- ⚙️ Experienced in **Backend Developing**, designing scalable APIs and real-time systems using NestJS, .NET, and PostgreSQL  
+- 🧠 Interested in **UI/UX Design**, creating user-centered designs and interactive prototypes using Figma  
+- 🚀 I enjoy building **complete products from design to deployment**
 
 ---
 
@@ -68,7 +69,7 @@ A full-stack healthcare platform featuring:
 - 🗃 15+ PostgreSQL relational tables using Prisma ORM
 - 📘 Fully documented REST APIs with Swagger
 
-**Tech Stack:** NestJS • TypeScript • PostgreSQL • React
+**Tech Stack:** •NestJS • TypeScript • PostgreSQL •Prisma ORM • Docker •Swagger •Github 
 
 ---
 
@@ -78,10 +79,6 @@ Institute (ITI)
 - UI and UX Design Certificate | Sprints 
 - Fundamentals of Web Development Certificate | Sprints 
 
-## 🏆 Achievements
-- Back-End AI Engineering Intern | Sprints
-- 🥇 1st Place — React Competition (Pharmacy E-Commerce Platform)
-- 🥈 2nd Place — Advanced Frontend Competition
 
 
 ---
@@ -92,12 +89,15 @@ Institute (ITI)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamilaAhmed14&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GamilaAhmed14&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 
 ---
 
 <p align="center">
-✨ Engineering scalable systems. Designing clean interfaces. Delivering impact. ✨
+✨ Developing scalable systems. Designing clean interfaces. Delivering impact. ✨
 </p>
 
 <!--
